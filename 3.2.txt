@@ -1,0 +1,8 @@
+CI/CD incorporating the ideas into our practice, we can reduce the time required to integrate changes for a release and thoroughly test each change before moving it into production.
+Keep our Pipelines Fast
+Isolate and Secure Your CI/CD Environment
+Make the CI/CD Pipeline the Only Way to Deploy to Production
+Maintain Parity with Production Wherever Possible
+Build Only Once and Promote the Result Through the Pipeline
+Run our Fastest Tests Early
+Minimize Branching in our Version Control System
